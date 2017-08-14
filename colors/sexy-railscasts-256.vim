@@ -20,7 +20,7 @@ hi link htmlTagName                 xmlTagName
 hi link htmlEndTag                  xmlEndTag
 
 highlight Normal                    guifg=#E6E1DC guibg=#222222
-highlight Cursor                    guifg=#000000 ctermfg=0 guibg=#FFFFFF ctermbg=15  
+highlight Cursor                    guifg=#000000 ctermfg=0 guibg=#FFFFFF ctermbg=15
 highlight CursorLine                guibg=#333435 ctermbg=237 cterm=NONE
 highlight CursorColumn              guibg=#333435 ctermbg=237 cterm=NONE
 highlight NonText                   ctermfg=235
@@ -35,7 +35,7 @@ highlight Identifier                guifg=#6D9CBE ctermfg=73 gui=NONE cterm=NONE
 highlight Include                   guifg=#CC7833 ctermfg=173 gui=NONE cterm=NONE
 highlight PreCondit                 guifg=#CC7833 ctermfg=173 gui=NONE cterm=NONE
 highlight Keyword                   guifg=#CC7833 ctermfg=173 cterm=NONE
-highlight LineNr                    guifg=#2B2B2B ctermfg=236 ctermbg=233 guibg=#C0C0FF
+highlight LineNr                    guifg=#C0C0FF ctermfg=236 ctermbg=233 guibg=#2B2B2B
 highlight Number                    guifg=#A5C261 ctermfg=107
 highlight VertSplit                 guifg=#383838 guibg=#383838 ctermfg=236 ctermbg=236
 highlight Directory                 guifg=#A5C261 gui=NONE ctermfg=107
