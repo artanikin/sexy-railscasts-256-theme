@@ -47,7 +47,7 @@ highlight PMenuSbar                 guibg=#5A647E ctermbg=64 gui=NONE
 highlight PMenuThumb                guibg=#AAAAAA ctermbg=240 gui=NONE
 
 highlight PreProc                   guifg=#E6E1DC ctermfg=103
-highlight Search                    guifg=NONE ctermfg=NONE guibg=#2b2b2b ctermbg=235 gui=italic cterm=underline
+highlight Search                    guifg=#2B2B2B ctermfg=NONE guibg=#FFE81E ctermbg=235 gui=italic cterm=underline
 highlight Statement                 guifg=#CC7833 ctermfg=173 gui=NONE cterm=NONE
 highlight String                    guifg=#A5C261 ctermfg=107
 highlight Title                     guifg=#FFFFFF ctermfg=15
