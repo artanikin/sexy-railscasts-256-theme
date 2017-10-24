@@ -23,6 +23,7 @@ highlight Normal                    guifg=#E6E1DC guibg=#222222
 highlight Cursor                    guifg=#000000 ctermfg=0 guibg=#FFFFFF ctermbg=15
 highlight CursorLine                guibg=#333435 ctermbg=237 cterm=NONE
 highlight CursorColumn              guibg=#333435 ctermbg=237 cterm=NONE
+highlight ColorColumn               guibg=#333435 ctermbg=237 cterm=NONE
 highlight NonText                   ctermfg=235
 
 
