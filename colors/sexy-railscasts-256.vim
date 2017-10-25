@@ -26,7 +26,7 @@ highlight CursorColumn              guibg=#333435 ctermbg=237 cterm=NONE
 highlight ColorColumn               guibg=#333435 ctermbg=237 cterm=NONE
 highlight NonText                   ctermfg=235
 highlight Folded                    guifg=#6D9CBE ctermfg=73 guibg=#333435
-
+highlight NonText                   guifg=#6D9CBE ctermfg=73
 
 highlight Comment                   guifg=#BC9458 ctermfg=180 gui=italic
 highlight Constant                  guifg=#6D9CBE ctermfg=73
