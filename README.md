@@ -1,4 +1,4 @@
-# Description
+# Sexy RailsCasts Vim theme
 
 - A 256-color version-ish of the Sexy RailsCasts Vim theme
 
@@ -29,4 +29,14 @@ Installation
 Screenshots
 -----------
 
-![sexy railscasts 256 theme](https://github.com/arty88/sexy-railscasts-256-theme/blob/master/screenshot.png)
+### Ruby
+![sexy railscasts 256 theme](https://github.com/arty88/sexy-railscasts-256-theme/blob/master/screenshots/ruby.png)
+
+### CoffeeScript
+![sexy railscasts 256 theme](https://github.com/arty88/sexy-railscasts-256-theme/blob/master/screenshots/coffeescript.png)
+
+### Slim
+![sexy railscasts 256 theme](https://github.com/arty88/sexy-railscasts-256-theme/blob/master/screenshots/slim.png)
+
+### YML
+![sexy railscasts 256 theme](https://github.com/arty88/sexy-railscasts-256-theme/blob/master/screenshots/yml.png)
