@@ -28,7 +28,7 @@ highlight NonText                   ctermfg=235
 highlight Folded                    guifg=#6D9CBE ctermfg=73 guibg=#333435
 highlight NonText                   guifg=#6D9CBE ctermfg=73
 
-highlight Comment                   guifg=#BC9458 ctermfg=180 gui=italic
+highlight Comment                   guifg=#BC9458 ctermfg=180
 highlight Constant                  guifg=#6D9CBE ctermfg=73
 highlight Define                    guifg=#CC7833 ctermfg=173
 highlight Error                     guifg=#FFC66D ctermfg=221 guibg=#990000 ctermbg=88
