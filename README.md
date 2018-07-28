@@ -21,7 +21,7 @@ Installation
 
     a. Put the following line in your .vimrc:
 
-      ```Plug 'arty88/sexy-railscasts-256-theme'```
+      ```Plug 'artanikin/sexy-railscasts-256-theme'```
 
     b. Reload .vimrc and `:PlugInstall` to install plugin.
 
@@ -30,13 +30,13 @@ Screenshots
 -----------
 
 ### Ruby
-![sexy railscasts 256 theme](https://github.com/arty88/sexy-railscasts-256-theme/blob/master/screenshots/ruby.png)
+![sexy railscasts 256 theme](https://github.com/artanikin/sexy-railscasts-256-theme/blob/master/screenshots/ruby.png)
 
 ### CoffeeScript
-![sexy railscasts 256 theme](https://github.com/arty88/sexy-railscasts-256-theme/blob/master/screenshots/coffeescript.png)
+![sexy railscasts 256 theme](https://github.com/artanikin/sexy-railscasts-256-theme/blob/master/screenshots/coffeescript.png)
 
 ### Slim
-![sexy railscasts 256 theme](https://github.com/arty88/sexy-railscasts-256-theme/blob/master/screenshots/slim.png)
+![sexy railscasts 256 theme](https://github.com/artanikin/sexy-railscasts-256-theme/blob/master/screenshots/slim.png)
 
 ### YML
-![sexy railscasts 256 theme](https://github.com/arty88/sexy-railscasts-256-theme/blob/master/screenshots/yml.png)
+![sexy railscasts 256 theme](https://github.com/artanikin/sexy-railscasts-256-theme/blob/master/screenshots/yml.png)
