@@ -44,9 +44,13 @@ highlight Directory                 guifg=#A5C261 gui=NONE ctermfg=107
 highlight StatusLine                ctermfg=236
 
 highlight Pmenu                     guifg=#F6F3E8 guibg=#444444 ctermfg=230 ctermbg=234 gui=NONE
-highlight PmenuSel                  guifg=#000000 guibg=#A5C261 ctermfg=232 ctermbg=64 gui=NONE
+highlight PmenuSel                  guifg=#000000 guibg=#6D9CBE ctermfg=232 ctermbg=73 gui=NONE
 highlight PMenuSbar                 guibg=#5A647E ctermbg=64 gui=NONE
 highlight PMenuThumb                guibg=#AAAAAA ctermbg=240 gui=NONE
+
+highlight TabLine                    guifg=#6D9CBE ctermfg=236 ctermbg=233 guibg=#333435 gui=NONE
+highlight TabLineSel                 guifg=#222222 ctermfg=236 ctermbg=233 guibg=#A5C261 gui=NONE
+highlight TabLineFill                guifg=#222222 ctermfg=236 ctermbg=233 guibg=#333435 gui=NONE
 
 highlight PreProc                   guifg=#E6E1DC ctermfg=103
 highlight Search                    guifg=#2B2B2B ctermfg=NONE guibg=#FFE81E ctermbg=235 gui=italic cterm=underline
