@@ -56,7 +56,7 @@ highlight TabLineSel                 guifg=#222222 ctermfg=236 ctermbg=233 guibg
 highlight TabLineFill                guifg=#222222 ctermfg=236 ctermbg=233 guibg=#333435 gui=NONE
 
 highlight PreProc                   guifg=#E6E1DC ctermfg=103
-highlight Search                    guifg=#2B2B2B ctermfg=NONE guibg=#FFE81E ctermbg=235 gui=italic cterm=underline
+highlight Search                    guifg=#2B2B2B ctermfg=NONE guibg=#FFC66D ctermbg=235 gui=bold cterm=underline
 highlight Statement                 guifg=#CC7833 ctermfg=173 gui=NONE cterm=NONE
 highlight String                    guifg=#A5C261 ctermfg=107
 highlight Title                     guifg=#FFFFFF ctermfg=15
