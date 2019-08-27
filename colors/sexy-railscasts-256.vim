@@ -39,6 +39,7 @@ highlight Include                   guifg=#CC7833 ctermfg=173 gui=NONE cterm=NON
 highlight PreCondit                 guifg=#CC7833 ctermfg=173 gui=NONE cterm=NONE
 highlight Keyword                   guifg=#CC7833 ctermfg=173 cterm=NONE
 highlight LineNr                    guifg=#C0C0FF ctermfg=236 ctermbg=233 guibg=#2B2B2B
+highlight CursorLineNR              guifg=#FFC66D guibg=#333435 ctermbg=237 cterm=NONE
 highlight SignColumn                guifg=#C0C0FF ctermfg=236 ctermbg=233 guibg=#2B2B2B
 highlight Number                    guifg=#A5C261 ctermfg=107
 highlight VertSplit                 guifg=#383838 guibg=#383838 ctermfg=236 ctermbg=236
