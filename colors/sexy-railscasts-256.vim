@@ -32,7 +32,7 @@ highlight Comment                   guifg=#BC9458 ctermfg=180
 highlight Constant                  guifg=#6D9CBE ctermfg=73
 highlight Define                    guifg=#CC7833 ctermfg=173
 highlight Error                     guifg=#FFC66D ctermfg=221 guibg=#990000 ctermbg=88
-highlight ErrorMsg                  guifg=#990000 ctermfg=88 guibg=NONE ctermbg=NONE
+highlight ErrorMsg                  guifg=#DA4939 ctermfg=88 guibg=NONE ctermbg=NONE
 highlight Function                  guifg=#FFC66D ctermfg=221 gui=NONE cterm=NONE
 highlight Identifier                guifg=#6D9CBE ctermfg=73 gui=NONE cterm=NONE
 highlight Include                   guifg=#CC7833 ctermfg=173 gui=NONE cterm=NONE
