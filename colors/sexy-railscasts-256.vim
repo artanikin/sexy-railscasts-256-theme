@@ -43,6 +43,7 @@ highlight Number                    guifg=#A5C261 ctermfg=107
 highlight VertSplit                 guifg=#383838 guibg=#383838 ctermfg=236 ctermbg=236
 highlight Directory                 guifg=#A5C261 gui=NONE ctermfg=107
 highlight StatusLine                guibg=#6D9CBE guifg=#2B2B2B ctermbg=236 ctermfg=233
+highlight StatusLineNC              guibg=#BC9458 guifg=#333435
 
 highlight Pmenu                     guifg=#F6F3E8 guibg=#444444 ctermfg=230 ctermbg=234 gui=NONE
 highlight PmenuSel                  guifg=#000000 guibg=#6D9CBE ctermfg=232 ctermbg=73 gui=NONE
